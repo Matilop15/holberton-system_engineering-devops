@@ -1,3 +1,2 @@
 #!/bin/bash
-cd /root/tmp
-mkdir my_first_directory
+mkdir my_first_directory /tmp
