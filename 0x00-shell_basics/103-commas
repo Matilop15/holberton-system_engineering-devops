@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -a -H -p --group-directories-first -X
+ls -a -H -p --group-directories-first -x -X
