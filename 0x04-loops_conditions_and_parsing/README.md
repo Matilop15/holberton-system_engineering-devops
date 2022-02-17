@@ -23,16 +23,16 @@ and
 ## Files
 
 - [0-RSA_public_key.pub]()
-- [1-for_best_school]()
-- [2-while_best_school]()
-- [3-until_best_school]()
-- [4-if_9_say_hi]()
-- [5-4_bad_luck_8_is_your_chance]()
-- [6-superstitious_numbers]()
-- [7-clock]()
-- [8-for_ls]()
-- [9-to_file_or_not_to_file]()
-- [10-fizzbuzz]()
+- [1-for_best_school](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/1-for_best_school)
+- [2-while_best_school](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/2-while_best_school)
+- [3-until_best_school](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/3-until_best_school)
+- [4-if_9_say_hi](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/4-if_9_say_hi)
+- [5-4_bad_luck_8_is_your_chance](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/5-4_bad_luck_8_is_your_chance)
+- [6-superstitious_numbers](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/6-superstitious_numbers)
+- [7-clock](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/7-clock)
+- [8-for_ls](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/8-for_ls)
+- [9-to_file_or_not_to_file](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/9-to_file_or_not_to_file)
+- [10-fizzbuzz](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x04-loops_conditions_and_parsing/10-fizzbuzz)
 
 
 ## Author
