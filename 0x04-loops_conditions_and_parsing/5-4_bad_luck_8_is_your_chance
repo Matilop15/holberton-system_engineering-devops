@@ -13,7 +13,7 @@ do
 	then
 		echo "good look"
 	else
-		echo "Holberton School"
+		echo "Best School"
 	fi
 
 	((counter++))
