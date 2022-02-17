@@ -1,19 +1,24 @@
 #!/usr/bin/env bash
-# Print numbers from 1 to 20 but:
+# Print numbers from 1 to 20
 
 count=1
 while [ $count -le 20 ]
 do
-	echo $count
-	if [ $count == 4 ]
-	then
-		echo "bad luck from China"
-	elif [ $count == 9 ]
-	then
-		echo "bad luck from Japan"
-	elif [ $count == 17 ]
-	then
-		echo "bad luck from Italy"
-	fi
+	case $count in
+		4)
+			echo "$count"
+			echo "bad luck from China"
+			;;
+		9)
+			echo "$count"
+			echo "bad luck from Japan"
+			;;
+		17)
+			echo "$count"
+			echo "bad luck from Italy"
+			;;
+		*)
+			echo "$count"
+	esac
 	((count++))
 done
