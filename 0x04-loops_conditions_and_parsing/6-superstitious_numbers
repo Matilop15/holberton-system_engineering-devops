@@ -1,8 +1,5 @@
 #!/usr/bin/env bash
 # Print numbers from 1 to 20 but:
-# print 4 and "bad luck from China"
-# print 9 and "bad luck from Japan"
-# print 17 and "bad luck from Italy"
 
 count=1
 while [ $count -le 20 ]
