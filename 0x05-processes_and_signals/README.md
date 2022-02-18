@@ -32,7 +32,7 @@ and
 - [5-dont_stop_me_now](http://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/5-dont_stop_me_now)
 - [6-stop_me_if_you_can](http://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/6-stop_me_if_you_can)
 - [7-highlander](http://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/7-highlander)
--[8-beheaded_process](http://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/8-beheaded_process)
+- [8-beheaded_process](http://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x05-processes_and_signals/8-beheaded_process)
 
 ## Author
 [Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
