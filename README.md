@@ -21,11 +21,7 @@ cd 0x00-shell_basics
 ```
 ## Usage
 ```
-chmod u+x <filename.c>
-```
-and
-```
-./<filename.c>
+./<filename>
 ```
 
 ## Directories
@@ -36,6 +32,9 @@ and
 - [0x03-shell_variables_expansions](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
 - [0x04-loops_conditions_and_parsing](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
 - [0x05-processes_and_signals](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x05-processes_and_signals)
+- [0x06-regular_expressions](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x06-regular_expressions)
+- [0x07-networking_basics](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x07-networking_basics)
+- [0x08-networking_basics_2](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2)
 
 ## Author
 Matias López - [Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
