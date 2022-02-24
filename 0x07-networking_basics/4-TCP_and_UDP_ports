@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+# neststat: Print network connections
+# flag l - Show only listening sockets
+# flag p - Show the PID and name of the
+# program to which each socket belongs.
+
+netstat -lp
+
