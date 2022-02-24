@@ -2,6 +2,9 @@
 
 # Holberton-system_engineering-devops
 
+## Lenguage
+<img src="https://img.icons8.com/plasticine/50/000000/bash.png">
+
 ## 0x07-networking_basics
 
 ## Purpose
@@ -24,25 +27,21 @@ git clone https://github.com/Matilop15/holberton-system_engineering-devops.git
 
 #### Change Directory
 ```
-cd 0x00-shell_basics
+cd 0x07-networking_basics
 ```
 ## Usage
 ```
-chmod u+x <filename.c>
-```
-and
-```
-./<filename.c>
+./<filename>
 ```
 
-## Directories
+## Files
 
-- [0x00-shell_basics](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
-- [0x01-shell_permissions](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x01-shell_permissions)
-- [0x02-shell_redirections](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x02-shell_redirections)
-- [0x03-shell_variables_expansions](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x03-shell_variables_expansions)
-- [0x04-loops_conditions_and_parsing](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing)
-- [0x05-processes_and_signals](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x05-processes_and_signals)
+- [0-OSI_model](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x07-networking_basics/0-OSI_model)
+- [1-types_of_network](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x07-networking_basics/1-types_of_network)
+- [2-MAC_and_IP_address](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x07-networking_basics/2-MAC_and_IP_address)
+- [3-UDP_and_TCP](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x07-networking_basics/3-UDP_and_TCP)
+- [4-TCP_and_UDP_ports](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x07-networking_basics/4-TCP_and_UDP_ports)
+- [5-is_the_host_on_the_network](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x07-networking_basics/5-is_the_host_on_the_network)
 
 ## Author
 Matias López - [Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
