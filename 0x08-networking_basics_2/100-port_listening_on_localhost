@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# script that listens on port 98 on localhost
+# flag -l listening on a specific port for a connection
+nc -l 98
