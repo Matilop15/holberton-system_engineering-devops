@@ -35,7 +35,8 @@ cd 0x00-shell_basics
 - [0x06-regular_expressions](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x06-regular_expressions)
 - [0x07-networking_basics](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x07-networking_basics)
 - [0x08-networking_basics_2](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2)
+- [0x09-web_infrastructure_design](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x09-web_infrastructure_design)
 
 ## Author
-Matias López - [Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
+- [Linkedin: Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
 
