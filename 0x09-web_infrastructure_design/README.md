@@ -23,7 +23,7 @@ You must use:
 * 1 application files (your code base)
 * 1 database (MySQL)
 * 1 domain name `foobar.com` configured with a `www` record that points to your server IP `8.8.8.8`
-
+---------------------------------------------------------------------------------------------------
 ### - Task #1
 ### [1-distributed_web_infrastructure](1-distributed_web_infrastructure)
 On a whiteboard, design a three servers web infrastructure that host the website `www.foobar.com`. <br />
