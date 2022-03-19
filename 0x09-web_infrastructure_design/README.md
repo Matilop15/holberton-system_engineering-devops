@@ -34,7 +34,7 @@ You must add to [0-simple_web_stack](0-simple_web_stack):
 * 1 load-balancer (HAproxy)
 * 1 application files (your code base)
 * 1 database (MySQL)
-
+----------------------------------------------------------------------------------------------------
 ### - Task #2
 ### [2-secured_and_monitored_web_infrastructure](2-secured_and_monitored_web_infrastructure)
 On a whiteboard, design a three servers web infrastructure that host the website `www.foobar.com`, it must be secured, serve encrypted traffic and be monitored. <br />
@@ -42,14 +42,14 @@ You must add to [1-distributed_web_infrastructure](1-distributed_web_infrastruct
 * 3 firewalls
 * 1 SSL certificate to serve `www.foobar.com` over HTTPS
 * 3 monitoring clients (data collector for Sumologic or other monitoring services)
-
+---------------------------------------------------------------------------------------------------
 ### - Task #3
 ### [3-scale_up](3-scale_up)
 You must add to [2-secured_and_monitored_web_infrastructure](2-secured_and_monitored_web_infrastructure):
 * 1 physical server
 * 1 load-balancer (HAproxy) configured as cluster with the other one
 * Split components (web server, application server, database) with their own server
-
+---------------------------------------------------------------------------------------------------
 # Authors
 - [Linkedin: Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
 - [Linkedin: Bruno Rodríguez](https://www.linkedin.com/in/brunonra/)
