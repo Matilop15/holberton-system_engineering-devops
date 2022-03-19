@@ -43,6 +43,7 @@ You must add to [1-distributed_web_infrastructure](1-distributed_web_infrastruct
 * 1 SSL certificate to serve `www.foobar.com` over HTTPS
 * 3 monitoring clients (data collector for Sumologic or other monitoring services)
 
+### - Task #3
 ### [3-scale_up](3-scale_up)
 You must add to [2-secured_and_monitored_web_infrastructure](2-secured_and_monitored_web_infrastructure):
 * 1 physical server
