@@ -13,7 +13,8 @@ At the end of this project you are expected to be able to explain, without the h
 ## File Descriptions
 Each file contains a link to an image hosted on Imgur. These images are based on the following requirements: <br />
 
-### 0# [0-simple_web_stack](0-simple_web_stack)
+### - Task #0
+### [0-simple_web_stack](0-simple_web_stack)
 On a whiteboard, design a one server web infrastructure that hosts the website that is reachable via `www.foobar.com.` Start your explanation by having a user wanting to access your website. <br />
 You must use:
 * 1 physical server
@@ -23,7 +24,8 @@ You must use:
 * 1 database (MySQL)
 * 1 domain name `foobar.com` configured with a `www` record that points to your server IP `8.8.8.8`
 
-### 1# [1-distributed_web_infrastructure](1-distributed_web_infrastructure)
+### - Task #1
+### [1-distributed_web_infrastructure](1-distributed_web_infrastructure)
 On a whiteboard, design a three servers web infrastructure that host the website `www.foobar.com`. <br />
 You must add to [0-simple_web_stack](0-simple_web_stack):
 * 2 physical servers
@@ -33,6 +35,7 @@ You must add to [0-simple_web_stack](0-simple_web_stack):
 * 1 application files (your code base)
 * 1 database (MySQL)
 
+### - Task #2
 ### [2-secured_and_monitored_web_infrastructure](2-secured_and_monitored_web_infrastructure)
 On a whiteboard, design a three servers web infrastructure that host the website `www.foobar.com`, it must be secured, serve encrypted traffic and be monitored. <br />
 You must add to [1-distributed_web_infrastructure](1-distributed_web_infrastructure):
