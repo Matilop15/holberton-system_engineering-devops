@@ -1,4 +1,4 @@
-# 0. Simple web stack
+# 1-distributed_web_infrastructure
 
 ![diagram](1-distributed_web_infrastructure.jpg)
 
