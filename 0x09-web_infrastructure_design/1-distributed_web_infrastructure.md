@@ -1,6 +1,6 @@
 # 0. Simple web stack
 
-![diagram](distributed_web_infrastructure.jpg)
+![diagram](1-distributed_web_infrastructure.jpg)
 
 ## Why are we adding a second server?
 
