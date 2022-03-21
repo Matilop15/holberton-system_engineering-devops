@@ -1,5 +1,7 @@
 # 2. Secured and monitored web infrastructure
 
+![diagram](2-secured_and_monitored_web_infrastructure.jpg)
+
 ## You must add:
     - 3 firewalls
     - 1 SSL certificate to serve www.foobar.com over HTTPS
