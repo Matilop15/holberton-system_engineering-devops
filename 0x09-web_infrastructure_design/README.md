@@ -43,13 +43,6 @@ You must add to [1-distributed_web_infrastructure](1-distributed_web_infrastruct
 * 1 SSL certificate to serve `www.foobar.com` over HTTPS
 * 3 monitoring clients (data collector for Sumologic or other monitoring services)
 ---------------------------------------------------------------------------------------------------
-## Task #3
-### [3-scale_up](3-scale_up.md)
-You must add to [2-secured_and_monitored_web_infrastructure](2-secured_and_monitored_web_infrastructure.md):
-* 1 physical server
-* 1 load-balancer (HAproxy) configured as cluster with the other one
-* Split components (web server, application server, database) with their own server
----------------------------------------------------------------------------------------------------
 # Authors
 - [Linkedin: Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
 - [Linkedin: Bruno Rodríguez](https://www.linkedin.com/in/brunonra/)
