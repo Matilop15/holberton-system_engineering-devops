@@ -1,4 +1,4 @@
-# 2. Secured and monitored web infrastructure
+## 2. Secured and monitored web infrastructure
 
 ![diagram](2-secured_and_monitored_web_infrastructure.jpg)
 
