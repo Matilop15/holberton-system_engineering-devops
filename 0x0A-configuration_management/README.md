@@ -36,5 +36,5 @@ puppet apply <filename>
 - [2-execute_a_command.pp](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x0A-configuration_management/2-execute_a_command.pp) - Using Puppet, create a manifest that kills a process named killmenow.
 
 ## Author
-Matias López - [Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
+[Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
 
