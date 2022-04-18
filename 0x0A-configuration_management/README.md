@@ -23,7 +23,9 @@ puppet apply <filename>
 ```
 
 ## Files
-- []()
+- [0-create_a_file.pp](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x0A-configuration_management/0-create_a_file.pp)
+- [1-install_a_package.pp](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x0A-configuration_management/1-install_a_package.pp)
+- [2-execute_a_command.pp](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x0A-configuration_management/2-execute_a_command.pp)
 
 ## Author
 Matias López - [Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
