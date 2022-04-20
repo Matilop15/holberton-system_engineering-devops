@@ -1,8 +1,7 @@
 #!/usr/bin/env bash
 # Install nginx in localserver
 
-apt-get -y update
-apt-get -y install nginx
-sudi ufd allow 'nginx HTTP'
+sudo apt-get -y update
+sudo apt-get -y install nginx
 sudo echo 'Hello Worldi!' > /var/www/html/index.nginx-debian.html
-sudo service nginx restart
+sudo service nginx start
