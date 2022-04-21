@@ -2,14 +2,14 @@
 
 # holberton-system_engineering-devops
 
-## Lenguage
+## Lenguage 🤩
 <img src="https://img.icons8.com/plasticine/50/000000/bash.png">
 
 ## Purpose
 
 - Learn about bash script
 
-## Installation
+## Installation 💻
 To use, first download  this repository into your local machine by issuing the following command in your local terminal. 
 ```
 git clone https://github.com/Matilop15/holberton-system_engineering-devops.git
@@ -24,7 +24,7 @@ cd 0x00-shell_basics
 ./<filename>
 ```
 
-## Directories
+## Directories 🗂
 
 - [0x00-shell_basics](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x00-shell_basics)
 - [0x01-shell_permissions](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x01-shell_permissions)
@@ -37,6 +37,6 @@ cd 0x00-shell_basics
 - [0x08-networking_basics_2](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x08-networking_basics_2)
 - [0x09-web_infrastructure_design](https://github.com/Matilop15/holberton-system_engineering-devops/tree/master/0x09-web_infrastructure_design)
 
-## Author
+## Author 👨‍💻
 - [Linkedin: Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
 
