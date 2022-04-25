@@ -10,5 +10,5 @@ sudo service nginx start
 sudo sed -i '/listen 80 default_server/a rewrite ^/redirect_me https://www.google.com permanent;' /etc/nginx/sites-available/default
 sudo sed -i '/listen 80 default_server/a \\\tadd_header X-Served-By $HOSTNAME;' /etc/nginx/sites-available/default
 sudo sed -i '/https://www.google.com permanent/a error_page 404 /404_error.html;\nlocation = /404_error.html {\n\troot var/www/html;\n\t;\n}' /etc/nginx/sites-available/default
-echo "Ceci n'est pas une page" > sudo tee /var/www/html/404_error.html
+echo "Ceci n'est pas une page" > sudo tee /var/www/html/herror.html
 sudo service nginx restart
