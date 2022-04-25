@@ -5,11 +5,9 @@
 apt-get update
 apt-get install -y nginx
 
-mkdir -p /var/www/html
-touch /var/www/html/index.html
-echo "Hello World" > /var/www/html/index.html
-touch /var/www/html/404_error.html
-echo "Ceci n'est pas une page" > /var/www/html/404_error.html
+sudo ufw allow 'Nginx HTTP'
+sudo echo "Hello World" | sudo tee /var/www/html/index.html > /dev/null
+sudo echo "Ceci n'est pas une page" | sudo tee /var/www/html/404_error.html > /dev/null
 
 printf %s "server {
     listen 80 default_server;
