@@ -2,6 +2,7 @@
 # Install Nginx with server 0x01 config
 # and add HTTP header named X-Served-By $HOSTNAME
 
+sudo apt-get update
 sudo apt-get -y install nginx
 echo "Hello World" > /var/www/html/index.nginx-debian.html
 sudo service nginx start
