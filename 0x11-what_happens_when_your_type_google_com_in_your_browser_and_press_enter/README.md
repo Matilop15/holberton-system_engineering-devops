@@ -28,5 +28,16 @@ Requirements, your post must cover:
 * Application server
 * Database
 
+### 1. Everything's better with a pretty diagram
+The diagram should show:
+* DNS resolution
+* that the request hitting server IP on the appropriate port
+* that the traffic is encrypted
+* that the traffic goes through a firewall
+* that the request is distributed via a load balancer
+* that the web server answers the request by serving a web page
+* that the application server generates the web page
+* that the application server request data from the database
+
 ## Author 👨‍💻
 [Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
