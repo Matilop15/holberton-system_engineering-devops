@@ -4,7 +4,7 @@
 
 ## 0x11. What happens when you type google.com in your browser and press Enter
 
-## Details
+## Details 🧾
 For this project, students are expected to look at this concept:
 * [Technical Writing Tips and Tricks for students](https://intranet.hbtn.io/concepts/134) 
 
@@ -14,7 +14,7 @@ A way to easily assess this is to simply ask an engineer to explain how a softwa
 Let’s practice by exploring the infrastructure side (network, servers, security…) of the question.
  ![](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-sysadmin_devops/298/aJPw3mw.jpg)
 
-## Tasks
+## Tasks 📄
 ### 0. What happens whe..
 This question is a good test of whether you understand DNS. Many software engineering candidates struggle with this concept, so if you do well on this question, you are already way ahead of the curve. If you take this project seriously and write an excellent article, it may be something that will grab the attention of future employers.
 Write a blog post explaining what happens when you type   ` https://www.google.com `   in your browser and press   ` Enter `  .
