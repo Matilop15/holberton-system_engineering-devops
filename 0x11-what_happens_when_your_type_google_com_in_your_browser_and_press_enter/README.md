@@ -1,6 +1,6 @@
 <img src="https://blog.holbertonschool.com/wp-content/uploads/2020/04/unnamed-2.png" width="170" height="210">
 
-# Holbertonschool-low_level_programming
+# Holberton-system_engineering-devops
 
 ## 0x11. What happens when you type google.com in your browser and press Enter
 
