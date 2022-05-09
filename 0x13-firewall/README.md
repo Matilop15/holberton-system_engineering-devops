@@ -21,7 +21,7 @@ Requirements:
 	- 80 (HTTP)
 
 
-## Files
+## Files 📑
 - [0-block_all_incoming_traffic_but]()
 
 ## Author 👨‍💻
