@@ -27,8 +27,8 @@ Requeriments:
 * Write a Bash script that configures the container to fit the above requirements
 
 ## Files
-- [0-iamsomeoneelse]()
-- [1-run_nginx_as_nginx]()
+- [0-iamsomeoneelse](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x12-web_stack_debugging_2/0-iamsomeoneelse)
+- [1-run_nginx_as_nginx](https://github.com/Matilop15/holberton-system_engineering-devops/blob/master/0x12-web_stack_debugging_2/1-run_nginx_as_nginx)
 
 ## Author 👨‍💻
 [Linkedin: @Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
