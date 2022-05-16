@@ -2,6 +2,7 @@
 """
 Using what you did in the task #0,
 extend your Python script to export data in the CSV format.
+Format: "USER_ID","USERNAME","TASK_COMPLETED_STATUS","TASK_TITLE"
 """
 
 if __name__ == '__main__':
