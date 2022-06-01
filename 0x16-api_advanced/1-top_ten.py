@@ -12,5 +12,5 @@ def top_ten(subreddit):
         print("None")
     else:
         filter = res.json().get('data').get('children')
-        for i in filter:
+        for i in filter[:10]:
             print(i.get('data').get('title'))
