@@ -36,8 +36,5 @@ or
 ./<filename.py>
 ```
 
-## Files 📄
-
-
 ## Author 👨‍💻
 [Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
