@@ -10,5 +10,5 @@ exec {'Correct Extension':
 command => "/bin/sed -i 's/phpp/php/g' /var/www/html/wp-settings.php",
 }
 exec { 'Restart Apache2 Server':
-command => 'service apache2 restart',
+command => 'sudo service apache2 restart',
 }
