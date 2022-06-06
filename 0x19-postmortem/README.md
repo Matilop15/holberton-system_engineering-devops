@@ -7,10 +7,8 @@
 - Document the process of correcting errors.
 - Preventing future failures in the software.
 
+Report link:
+[Postmortem Apache2 Server](https://docs.google.com/document/d/1QjSUlC5ELhHDg3VLW9_0fHrY8EFFwDt63aeDZTxZN4Q/edit?usp=sharing)
 
-## Issue Summary:
-
-The affectation was 100% of the users.
-After the last software update in which several new features were added, a server error was detected thanks to the web monitoring installed on the server that quickly alerted us to the problem.
-When making a request to the web page, it returns error 500.
-
+## Author 👨‍💻
+- [Linkedin: Matias López](https://uy.linkedin.com/in/matias-l%C3%B3pez-777796194?trk=people-guest_people_search-card)
