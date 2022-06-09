@@ -4,5 +4,5 @@ exec { 'Debuggg':
   command => '/bin/sed -i \'s/ULIMIT="-n 15"/ULIMIT="-n 4096"/\' /etc/default/nginx',
 }
 exec { 'Restart_Nginx':
-  command => '/usr/sbin/service nginx restart',
+  command => '/usr/bin/env service nginx restart',
 }
